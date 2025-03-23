@@ -17,7 +17,7 @@
 
 <div>
 
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=safari_amir&" alt="safari_amir" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=safari-amir&" alt="safari-amir" />
 </div>
 
 
